@@ -1,5 +1,5 @@
 ---
-title: Description of a Pot Still
+title: Description of
 categories:
 - General
 excerpt: |
